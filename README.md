@@ -4,7 +4,7 @@ Submission for Frontend Mentor Challenges
 
 See the sites (live) 
 
-https://four-card-ride-088c54.netlify.app
+Click on the links available on below-
 
 
 https://frontendmentorchallenges.netlify.app
