@@ -7,4 +7,4 @@ See the sites (live)
 https://four-card-ride-088c54.netlify.app
 
 
-frontendmentorchallenges.netlify.app
+https://frontendmentorchallenges.netlify.app
