@@ -2,4 +2,9 @@
 
 Submission for Frontend Mentor Challenges
 
-See the sites (live) http://127.0.0.1:5501/index.html
+See the sites (live) 
+
+Click on the links available on below-
+
+
+https://frontendmentorchallenges.netlify.app
