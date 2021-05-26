@@ -7,4 +7,4 @@ See the sites (live)
 Click on the links available on below-
 
 
-https://frontendmentorchallenges.netlify.app
+https://palashrawat-frontendmentorchallenges.netlify.app/
