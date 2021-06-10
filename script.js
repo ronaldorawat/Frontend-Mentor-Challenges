@@ -2,7 +2,8 @@ const projects = [
    'four-card-feature-section-master',
    'huddle-landing-page-with-single-introductory-section-master',
    'intro-component-with-signup-form-master',
-   'single-price-grid-component-master'
+   'single-price-grid-component-master',
+   'ping-coming-soon-page-master'
 ];
 
 const list= document.getElementById('list');
